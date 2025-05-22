@@ -1,0 +1,1 @@
+{"name":"Local: problem14","url":"d:\\Programming\\C\\pattern-booster\\problem14.1.c","tests":[{"id":1747930479395,"input":"5","output":"    *\n   **\n  ***\n ****\n*****\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\C\\pattern-booster\\problem14.1.c","group":"local","local":true}
