@@ -1,0 +1,1 @@
+{"name":"Local: alphabet","url":"d:\\Programming\\C\\pattern-booster\\alphabet.c","tests":[{"id":1747932412499,"input":"5","output":"A\nA B\nA B C\nA B C D\nA B C D E"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\C\\pattern-booster\\alphabet.c","group":"local","local":true}
